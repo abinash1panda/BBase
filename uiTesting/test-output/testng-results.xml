@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-23T17:25:16Z" name="BaseBaseAutomationSuite" finished-at="2019-01-23T17:26:47Z" duration-ms="90596">
+    <groups>
+    </groups>
+    <test started-at="2019-01-23T17:25:16Z" name="All-tests" finished-at="2019-01-23T17:26:47Z" duration-ms="90596">
+      <class name="com.backbase.uiTesting.BackBaseUITest">
+        <test-method is-config="true" signature="suiteSetup(org.testng.ITestContext)[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:55:16Z" name="suiteSetup" finished-at="2019-01-23T22:55:16Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@408b35bf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:55:16Z" name="beforeMethod" finished-at="2019-01-23T22:55:16Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test01_validateHomePage()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:55:16Z" name="Test01_validateHomePage" finished-at="2019-01-23T22:55:18Z" duration-ms="1554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_validateHomePage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:55:18Z" name="beforeMethod" finished-at="2019-01-23T22:55:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test02_validateSearchFeature()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:55:18Z" name="Test02_validateSearchFeature" finished-at="2019-01-23T22:56:13Z" duration-ms="55298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02_validateSearchFeature -->
+        <test-method signature="Test03_validatePageNavigation()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:56:13Z" name="Test03_validatePageNavigation" finished-at="2019-01-23T22:56:41Z" duration-ms="27629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_validatePageNavigation -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:56:13Z" name="beforeMethod" finished-at="2019-01-23T22:56:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:56:41Z" name="beforeMethod" finished-at="2019-01-23T22:56:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Test04_verifyAddComputerFeature()[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:56:41Z" name="Test04_verifyAddComputerFeature" finished-at="2019-01-23T22:56:47Z" duration-ms="6099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04_verifyAddComputerFeature -->
+        <test-method is-config="true" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.backbase.uiTesting.BackBaseUITest@4e4efc1b]" started-at="2019-01-23T22:56:47Z" name="afterSuite" finished-at="2019-01-23T22:56:47Z" duration-ms="108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@408b35bf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.backbase.uiTesting.BackBaseUITest -->
+    </test> <!-- All-tests -->
+  </suite> <!-- BaseBaseAutomationSuite -->
+</testng-results>
